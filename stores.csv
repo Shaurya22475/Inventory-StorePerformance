@@ -1,0 +1,6 @@
+store_id,store_name,store_city,store_region,opening_date
+S001,Store 1,Delhi,North,2018-01-01
+S002,Store 2,Mumbai,West,2018-01-02
+S003,Store 3,Bangalore,South,2018-01-03
+S004,Store 4,Chennai,South,2018-01-04
+S005,Store 5,Hyderabad,South,2018-01-05

@@ -1,0 +1,5 @@
+promotion_id,promotion_name,start_date,end_date
+PR01,Holiday Sale,2025-01-01,2025-01-07
+PR02,Weekend Offer,2025-01-10,2025-01-12
+PR03,Clearance,2025-01-15,2025-01-18
+PR04,Festive Deal,2025-01-20,2025-01-25
